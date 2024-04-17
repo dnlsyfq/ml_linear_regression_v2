@@ -1,3 +1,5 @@
+# Univaritate Regression / Simple Linear Regression
+* Predict dependent variable based on indepedent variable 
 
 
 # Multivariate Regression
